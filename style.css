@@ -1,0 +1,46 @@
+
+
+body {
+  background-image: url("https://images.pexels.com/photos/416676/pexels-photo-416676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  }
+
+.fire {
+  text-align: center;
+  font-family: Raleway, sans-serif;
+  color: black;
+  margin-top: 60px;
+}
+
+.t {
+  text-align: left;
+  font-family: Raleway, sans-serif;
+  color: black;
+  margin-top: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Notable, sans-serif;
+  color: black;
+  margin: 40px 0px 50px 0px;
+}
+
+.pic {
+  float: right;
+  width: 200px;
+  margin: 0px 100px 50px 0px;
+  image-rendering: high-quality;
+;
+}
+
+
+.text_over_image {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left:0;
+  right:0;
+  bottom:0;
+  color:#fff;
+  height:100px;
+}
